@@ -1,4 +1,4 @@
-#Opgave 4
+Opgave 4
 
 Dette projekt opsætter en **MySQL-database** med tre relaterede tabeller: `customers`, `products` og `orders`. Scriptet gør automatisk følgende:
 
