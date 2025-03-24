@@ -1,3 +1,3 @@
-from connect import Connect 
+from database import Database 
 
-Connect()
+Database()
