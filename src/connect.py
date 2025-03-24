@@ -7,11 +7,7 @@ class Connect:
     def __init__(self):
         self._connection = None
         self._db = Database()
-        self.connect()
-
-        if self._connection:
-            # self.excucte_queue_orders()
-            self.disconnect()
+      
 
         
     
